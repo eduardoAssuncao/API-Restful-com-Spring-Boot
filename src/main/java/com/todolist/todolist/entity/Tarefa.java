@@ -1,9 +1,8 @@
 package com.todolist.todolist.entity;
 
-import java.io.Serializable;
-
 import org.springframework.hateoas.RepresentationModel;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import jakarta.persistence.Entity;
@@ -14,7 +13,7 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 
 @Entity
-public class Tarefa extends RepresentationModel<Tarefa> implements Serializable{
+public class Tarefa extends RepresentationModel<Tarefa>{
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -23,8 +22,9 @@ public class Tarefa extends RepresentationModel<Tarefa> implements Serializable{
     private String descricao;
 
     @ManyToOne
-    @JoinColumn(name = "usuario_id", nullable = true)
+    @JoinColumn(name = "usuario_id")
     @JsonIgnoreProperties("tarefas")
+    @JsonBackReference
     private Usuario usuario;
 
     // construtores

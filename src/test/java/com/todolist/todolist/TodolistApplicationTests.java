@@ -5,6 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
 import org.springframework.test.web.reactive.server.WebTestClient;
+import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
 import com.todolist.todolist.entity.Tarefa;
 import com.todolist.todolist.entity.Usuario;
@@ -28,12 +29,23 @@ class TodolistApplicationTests {
 			.expectBody()
 			.jsonPath("$").isMap()
 			.jsonPath("$.length()").isEqualTo(3)
-			.jsonPath("$[0].nome").isEqualTo(usuario.getNome());
+			.jsonPath("$.nome").isEqualTo(usuario.getNome());
 	}
 	
-	/*@Test
+	@Test
 	void testeCriarTarefa() {
-		var tarefa = new Tarefa("Tarefa 1");
-	}*/
+		Usuario usuario = new Usuario("Eduardo");
+		var tarefa = new Tarefa("Tarefa 1", usuario);
 
+		webTestClient
+			.post()
+			.uri("/tarefas")
+			.bodyValue(tarefa)
+			.exchange()
+			.expectStatus().isCreated()
+			.expectBody()
+			.jsonPath("$").isMap()
+			.jsonPath("$.length()").isEqualTo(2)
+			.jsonPath("$.descricao").isEqualTo(tarefa.getDescricao());
+		}
 }
