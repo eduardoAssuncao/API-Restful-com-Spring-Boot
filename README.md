@@ -180,9 +180,12 @@ Não se esqueça de dar uma estrela para o projeto! Mais uma vez, obrigado!
 
 Distribuído sob a licença **CreativeCommons**. Consulte `LICENSE.txt` para obter mais informações.
 
-<img src="https://br.creativecommons.net/wp-content/uploads/sites/30/2020/09/by-nc-sa.jpg" width="180" height="100">
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ [![General badge](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<!-- <img src="https://br.creativecommons.net/wp-content/uploads/sites/30/2020/09/by-nc-sa.jpg" width="180" height="100"> -->
+
+<!-- [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) -->
 
 ### Você tem o direito de:
 **Compartilhar** — copiar e redistribuir o material em qualquer suporte ou formato.
@@ -204,6 +207,12 @@ O licenciante não pode revogar estes direitos desde que você respeite os termo
 <!-- CONTACT -->
 ## Contatos
 
-Ana Paula Ravelo de Freitas - [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-]([(https://github.com/ana-rabelo]) - ana.freitas@acad.ifma.edu.br
+Ana Paula Rabelo de Freitas  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ana-rabelo)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ana.freitas@acad.ifma.edu.br)
 
+Eduardo Assunção de Sousa  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoAssuncao)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardo.assuncao@acad.ifma.edu.br)
+
+Halex Miranda  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halexMiranda)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](halex.miranda@acad.ifma.edu.br)
+
+Regiana Barbosa  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RegianaBarbosa)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](regiana.cruz@acad.ifma.edu.br)
+
+Gabriel  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielAl)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@acad.ifma.edu.br)
