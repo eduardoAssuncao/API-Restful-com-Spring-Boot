@@ -152,6 +152,7 @@ Retorna 200 e a lista de tarefas criadas. Caso não exista tarefas cadastradas, 
    ```sh
    mvn spring-boot:run
    ```
+   Caso o comando não funcione, você poderá utilizar o run java do VScode
 3. Você pode utilizar o swagger:
    ```js
    http://localhost:8080/swagger-ui/index.html
@@ -162,27 +163,47 @@ Retorna 200 e a lista de tarefas criadas. Caso não exista tarefas cadastradas, 
 <!-- CONTRIBUTING -->
 ## Contribuição
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+As contribuições são o que torna a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Se você tiver alguma sugestão que possa melhorar o projeto, faça um fork do repositório e crie uma solicitação pull. Você também pode simplesmente abrir um problema com a tag "aprimoramento".
+Não se esqueça de dar uma estrela para o projeto! Mais uma vez, obrigado!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Faça o fork do projeto
+2. Crie sua ramificação de recurso (`git checkout -b feature/AmazingFeature`)
+3. Faça o commit de suas alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Faça push para a ramificação (`git push origin feature/AmazingFeature`)
+5. Abra uma solicitação pull
 
 
 <!-- LICENSE -->
 ## Licença
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distribuído sob a licença **CreativeCommons**. Consulte `LICENSE.txt` para obter mais informações.
 
+<img src="https://br.creativecommons.net/wp-content/uploads/sites/30/2020/09/by-nc-sa.jpg" width="180" height="100">
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+### Você tem o direito de:
+**Compartilhar** — copiar e redistribuir o material em qualquer suporte ou formato.
+
+**Adaptar** — remixar, transformar, e criar a partir do material.
+
+O licenciante não pode revogar estes direitos desde que você respeite os termos da licença.
+
+### De acordo com os termos seguintes:
+
+**Atribuição** - Você deve dar o crédito apropriado , prover um link para a licença e indicar se mudanças foram feitas . Você deve fazê-lo em qualquer circunstância razoável, mas de nenhuma maneira que sugira que o licenciante apoia você ou o seu uso.
+
+**NãoComercial** - Você não pode usar o material para fins comerciais .
+
+**CompartilhaIgual** - Se você remixar, transformar, ou criar a partir do material, tem de distribuir as suas contribuições sob a mesma licença que o original.
+
+**Sem restrições adicionais** - Você não pode aplicar termos jurídicos ou medidas de caráter tecnológico que restrinjam legalmente outros de fazerem algo que a licença permita.
 
 <!-- CONTACT -->
 ## Contatos
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Ana Paula Ravelo de Freitas - [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+]([(https://github.com/ana-rabelo]) - ana.freitas@acad.ifma.edu.br
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
