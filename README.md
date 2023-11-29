@@ -13,9 +13,9 @@
     Guia prático para iniciantes
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Reportar Erro</a>
+    <a href="https://github.com/eduardoAssuncao/API-Restful-com-Spring-Boot/issues">Reportar Erro</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Tirar dúvida</a>
+    <a href="https://github.com/eduardoAssuncao/API-Restful-com-Spring-Boot/issues">Contribuir</a>
   </p>
 </div>
 
@@ -141,6 +141,11 @@ Retorna 200 e a lista de tarefas criadas. Caso não exista tarefas cadastradas, 
 
 ### Pré-requisitos
 
+Para executar o projeto, certifique-se de ter os seguintes pré-requisitos:
+
+* Java Development Kit (JDK) instalado.
+* IDE de sua escolha (recomendamos o VSCode, IntelliJ IDEA ou Eclipse).
+* Maven ou Gradle instalado para gerenciamento de dependências.
 
 ### Instalação
 
@@ -207,12 +212,22 @@ O licenciante não pode revogar estes direitos desde que você respeite os termo
 <!-- CONTACT -->
 ## Contatos
 
-Ana Paula Rabelo de Freitas  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ana-rabelo)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ana.freitas@acad.ifma.edu.br)
+* Ana Paula Rabelo de Freitas
 
-Eduardo Assunção de Sousa  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoAssuncao)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardo.assuncao@acad.ifma.edu.br)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ana-rabelo)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ana.freitas@acad.ifma.edu.br)
 
-Halex Miranda  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halexMiranda)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](halex.miranda@acad.ifma.edu.br)
+* Eduardo Assunção de Sousa 
 
-Regiana Barbosa  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RegianaBarbosa)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](regiana.cruz@acad.ifma.edu.br)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardoAssuncao)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardo.assuncao@acad.ifma.edu.br)
 
-Gabriel  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielAl)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@acad.ifma.edu.br)
+* Halex Miranda
+
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halexMiranda)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](halex.miranda@acad.ifma.edu.br)
+
+* Regiana Barbosa 
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RegianaBarbosa)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](regiana.cruz@acad.ifma.edu.br)
+
+* Gabriel  
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielAl)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@acad.ifma.edu.br)
