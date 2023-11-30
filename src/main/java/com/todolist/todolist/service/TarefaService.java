@@ -38,4 +38,8 @@ public class TarefaService {
     public void deleteTarefa(Long id) {
         tarefaRepository.deleteById(id);
     }
+
+    public void deleteAllTarefas() {
+        tarefaRepository.deleteAll();
+    }
 }

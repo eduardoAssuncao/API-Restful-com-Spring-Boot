@@ -73,4 +73,10 @@ public class TarefaController {
         tarefaService.deleteTarefa(id);
         return ResponseEntity.noContent().build();
     }
+
+    @DeleteMapping
+    public ResponseEntity<Tarefa> deleteAllTarefas() {
+        tarefaService.deleteAllTarefas();
+        return ResponseEntity.noContent().build();
+    }
 }
