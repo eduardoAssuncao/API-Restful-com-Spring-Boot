@@ -228,6 +228,6 @@ O licenciante não pode revogar estes direitos desde que você respeite os termo
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RegianaBarbosa)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](regiana.cruz@acad.ifma.edu.br)
 
-* Gabriel  
+* Gabriel Portela
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielAl)  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@acad.ifma.edu.br)
